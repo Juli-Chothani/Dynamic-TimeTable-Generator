@@ -1,0 +1,29 @@
+﻿@model SubjectHoursModel
+
+<h3>Subjects and Hours</h3>
+
+<p>Total Hours for Week: @Model.TotalHoursForWeek</p>
+
+<table border="1" class="table">
+    <tr>
+        <th>Subject</th>
+        <th>Hours</th>
+    </tr>
+    @foreach (var subject in Model.Subjects)
+    {
+        <tr>
+            <td>@subject.Name</td>
+            <td>@subject.Hours</td>
+        </tr>
+    }
+</table>
+
+<form asp-action="GenerateTimeTable" method="post">
+    @for (int i = 0; i < Model.Subjects.Count; i++)
+    {
+        <input type="hidden" name="Subjects[@i].Name" value="@Model.Subjects[i].Name" />
+        <input type="hidden" name="Subjects[@i].Hours" value="@Model.Subjects[i].Hours" />
+    }
+    <input type="hidden" name="TotalHoursForWeek" value="@Model.TotalHoursForWeek" />
+    <button type="submit" class="btn btn-success">Generate TimeTable</button>
+</form>

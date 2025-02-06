@@ -1,0 +1,46 @@
+﻿@model DynamicTimeTableGenerator.Models.TimeTableModel
+
+@{
+    ViewData["Title"] = "Dynamic Time-Table Generator";
+}
+
+<h2>Dynamic Time-Table Generator</h2>
+
+<form asp-action="EnterSubjects" method="post" class="needs-validation" novalidate>
+    <div class="mb-3">
+        <label class="form-label">No of Working Days:</label>
+        <input asp-for="WorkingDays" type="number" class="form-control" min="1" max="7" required />
+        <span class="text-danger" asp-validation-for="WorkingDays"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">No of Subjects per Day:</label>
+        <input asp-for="SubjectsPerDay" type="number" class="form-control" min="1" max="8" required />
+        <span class="text-danger" asp-validation-for="SubjectsPerDay"></span>
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">Total Subjects:</label>
+        <input asp-for="TotalSubjects" type="number" class="form-control" min="1" required />
+        <span class="text-danger" asp-validation-for="TotalSubjects"></span>
+    </div>
+
+    <div class="mb-3">
+        <label>Total Hours for Week:</label>
+        <p id="totalHours" class="fw-bold text-primary">@Model?.TotalHoursForWeek</p>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+@section Scripts {
+    <script>
+        document.querySelectorAll("input").forEach(input => {
+            input.addEventListener("input", () => {
+                let days = parseInt(document.querySelector("[name='WorkingDays']").value) || 0;
+                let subjects = parseInt(document.querySelector("[name='SubjectsPerDay']").value) || 0;
+                document.getElementById("totalHours").textContent = days * subjects;
+            });
+        });
+    </script>
+}

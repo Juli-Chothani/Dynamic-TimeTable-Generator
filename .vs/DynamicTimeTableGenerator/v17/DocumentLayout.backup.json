@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\views\\timetable\\entersubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\views\\timetable\\entersubjects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\views\\timetable\\timetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\views\\timetable\\timetable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\views\\timetable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\views\\timetable\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\controllers\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\models\\subjecthoursmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\models\\subjecthoursmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\models\\timetablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\models\\timetablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|d:\\juli_softwer\\project\\dynamictimetablegenerator\\dynamictimetablegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE3CB8C-6E7C-4670-A94D-218209E62356}|DynamicTimeTableGenerator\\DynamicTimeTableGenerator.csproj|solutionrelative:dynamictimetablegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SubjectHoursModel.cs",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Models\\SubjectHoursModel.cs",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Models\\SubjectHoursModel.cs",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Models\\SubjectHoursModel.cs",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Models\\SubjectHoursModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:26:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TimeTable.cshtml",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Views\\TimeTable\\TimeTable.cshtml",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Views\\TimeTable\\TimeTable.cshtml",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Views\\TimeTable\\TimeTable.cshtml",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Views\\TimeTable\\TimeTable.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T09:56:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnterSubjects.cshtml",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Views\\TimeTable\\EnterSubjects.cshtml",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Views\\TimeTable\\EnterSubjects.cshtml",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Views\\TimeTable\\EnterSubjects.cshtml",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Views\\TimeTable\\EnterSubjects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T09:55:28.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Views\\TimeTable\\Index.cshtml",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Views\\TimeTable\\Index.cshtml",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Views\\TimeTable\\Index.cshtml",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Views\\TimeTable\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-05T09:54:19.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TimeTableController.cs",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Controllers\\TimeTableController.cs",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Controllers\\TimeTableController.cs",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Controllers\\TimeTableController.cs",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Controllers\\TimeTableController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:52:48.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TimeTableModel.cs",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Models\\TimeTableModel.cs",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Models\\TimeTableModel.cs",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Models\\TimeTableModel.cs",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Models\\TimeTableModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:50:00.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicTimeTableGenerator\\Program.cs",
+              "ToolTip": "D:\\JULI_Softwer\\Project\\DynamicTimeTableGenerator\\DynamicTimeTableGenerator\\Program.cs",
+              "RelativeToolTip": "DynamicTimeTableGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T09:26:24.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

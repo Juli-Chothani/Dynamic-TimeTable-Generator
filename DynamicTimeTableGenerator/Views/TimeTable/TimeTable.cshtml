@@ -1,0 +1,29 @@
+﻿@model List<List<string>>
+
+@{
+    ViewData["Title"] = "Generated Time-Table";
+}
+
+<h2>Generated Time-Table</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            @for (int i = 1; i <= Model[0].Count; i++)
+            {
+                <th>Day @i</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var row in Model)
+        {
+            <tr>
+                @foreach (var subject in row)
+                {
+                    <td>@subject</td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>
