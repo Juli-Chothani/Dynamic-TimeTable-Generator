@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DynamicTimeTableGenerator",
+    "\\DynamicTimeTableGenerator\\Views",
+    "\\DynamicTimeTableGenerator\\Views\\TimeTable"
+  ],
+  "SelectedNode": "\\DynamicTimeTableGenerator\\Views\\TimeTable\\EnterSubjects.cshtml",
+  "PreviewInSolutionExplorer": false
+}

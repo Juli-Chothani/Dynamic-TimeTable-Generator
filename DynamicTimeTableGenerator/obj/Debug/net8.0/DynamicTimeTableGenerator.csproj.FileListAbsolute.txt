@@ -32,3 +32,4 @@ D:\JULI_Softwer\Project\DynamicTimeTableGenerator\DynamicTimeTableGenerator\obj\
 D:\JULI_Softwer\Project\DynamicTimeTableGenerator\DynamicTimeTableGenerator\obj\Debug\net8.0\DynamicTimeTableGenerator.pdb
 D:\JULI_Softwer\Project\DynamicTimeTableGenerator\DynamicTimeTableGenerator\obj\Debug\net8.0\DynamicTimeTableGenerator.genruntimeconfig.cache
 D:\JULI_Softwer\Project\DynamicTimeTableGenerator\DynamicTimeTableGenerator\obj\Debug\net8.0\ref\DynamicTimeTableGenerator.dll
+D:\JULI_Softwer\Project\DynamicTimeTableGenerator\DynamicTimeTableGenerator\obj\Debug\net8.0\DynamicTimeTableGenerator.sourcelink.json
